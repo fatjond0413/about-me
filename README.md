@@ -20,3 +20,12 @@
   + GIT
   
   + AVD
+
+  ## *My favorite activites*
+
+ + Playing Video Games
+ + Watching youtube
+ + Talking with friends
+ + Sleeping
+ + Eating
+ 
